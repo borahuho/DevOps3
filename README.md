@@ -8,7 +8,7 @@ This repository is intended for educational purpose only.
 
 ## Prerequisites
 ```
-This setup is the second to practice with my students.
+This setup is the next to practice with my students.
 Works on Windows 10
 
 Software needed:
