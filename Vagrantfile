@@ -4,6 +4,8 @@ groupadd team
 groupadd accounting
 usermod -aG team anna
 mkdir /accounting
+touch /accounting/annafile.txt
+touch /accounting/annatestfile.txt
 SCRIPT
 
 

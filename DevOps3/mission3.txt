@@ -6,7 +6,7 @@ map aanmaken /uploads
 
 file aanmaken /uploads/readme
 
-bepaalde file met anna zoeken en verplaatsen naar /uploads
+alle file's met de naam anna of anna in de naam zoeken en verplaatsen naar /uploads
 
 file ssh zoeken met grep
 
