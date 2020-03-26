@@ -32,7 +32,7 @@ cd DevOps3
 vagrant up
 vagrant ssh
 ```
-## mission
+## Mission
 ```
 Read your mission in ~/vagrant/mission
 ```
