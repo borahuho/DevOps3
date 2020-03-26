@@ -1,0 +1,26 @@
+Inloggen als root
+
+sudo -i 
+
+map aanmaken /uploads
+
+file aanmaken /uploads/readme
+
+bepaalde file met anna zoeken en verplaatsen naar /uploads
+
+file ssh zoeken met grep
+
+map aanmaken /backup
+
+/uploads tar en verplaatsen naar /backup
+
+alleen root mag bij het bestand /backup/uploads_backup.tar.gz
+
+change owner van de map /accounting naar anna
+
+groep veranderen op /accounting naar accounting
+
+werken met special permissions
+
+S permission op /uploads voor de groep
+
